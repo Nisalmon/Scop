@@ -1,2 +1,0 @@
-# Scop
-Project Scop42
